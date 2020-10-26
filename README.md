@@ -1,1 +1,1 @@
-# Series_Sum
+Drawing a plot of F(x) = Series Sum
